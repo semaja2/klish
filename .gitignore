@@ -47,3 +47,5 @@
 /klish-*.tar*
 /*.tgz
 /*.deb
+
+/faux
